@@ -1,0 +1,3 @@
+## Machine Learning(Linear Regression and Classification)
+### Problem Description
+We are given a [dataset](https://geodacenter.github.io/data-and-lab/KingCounty-HouseSales2015/) that contains home sales' prices and their characteristics in King County, USA. We're asked to learn about dataset with visualization and statistical tools and preprocess the data to make it cleaner and better for Machine Learning tasks. Then, We have to perform Linear Regression and Classification methods on the data to predict the price of the houses.

@@ -1,0 +1,3 @@
+## Working with a dataset and make predictions with statistics analysis
+### Problem Description
+We are given a dataset which includes some attributes about each individual and we want to predict if their salary is more than 50K$ or not. At first we should manipulate the dataset and make it better for statistics analysis. Also we are asked to find some individuals with specific attributes in order to have a better understanding of the dataset.
