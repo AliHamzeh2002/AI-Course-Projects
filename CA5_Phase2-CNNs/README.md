@@ -1,3 +1,3 @@
 ## Convolutional Neural Networks
 ### Problem Description
-In this phase, We are asked to create a convolutional neural network(CNN) to classify [CIFAR-10](https://en.wikipedia.org/wiki/CIFAR-10) dataset which contains images of 10 different classes(airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks). We also have to implement Data Augmentation on an unbalanced data and in the end improve our model by using Dropout and Batch Normalization layers.
+In this phase, We are asked to create a convolutional neural network(CNN) to classify [CIFAR-10](https://en.wikipedia.org/wiki/CIFAR-10) dataset which contains images of 10 different classes(airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships and trucks). We also have to implement Data Augmentation on an unbalanced data and in the end improve our model by using Dropout and Batch Normalization layers.
